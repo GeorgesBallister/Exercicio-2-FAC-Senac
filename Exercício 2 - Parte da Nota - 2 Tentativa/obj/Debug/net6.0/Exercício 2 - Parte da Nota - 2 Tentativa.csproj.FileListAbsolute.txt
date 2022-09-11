@@ -1,0 +1,15 @@
+D:\Pastas do Sistema\Documentos\Programação\Projetos Faculdade\Exercício 2 - Parte da Nota - 2 Tentativa\obj\Debug\net6.0\Exercício 2 - Parte da Nota - 2 Tentativa.csproj.AssemblyReference.cache
+D:\Pastas do Sistema\Documentos\Programação\Projetos Faculdade\Exercício 2 - Parte da Nota - 2 Tentativa\obj\Debug\net6.0\Exercício 2 - Parte da Nota - 2 Tentativa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pastas do Sistema\Documentos\Programação\Projetos Faculdade\Exercício 2 - Parte da Nota - 2 Tentativa\obj\Debug\net6.0\Exercício 2 - Parte da Nota - 2 Tentativa.AssemblyInfoInputs.cache
+D:\Pastas do Sistema\Documentos\Programação\Projetos Faculdade\Exercício 2 - Parte da Nota - 2 Tentativa\obj\Debug\net6.0\Exercício 2 - Parte da Nota - 2 Tentativa.AssemblyInfo.cs
+D:\Pastas do Sistema\Documentos\Programação\Projetos Faculdade\Exercício 2 - Parte da Nota - 2 Tentativa\obj\Debug\net6.0\Exercício 2 - Parte da Nota - 2 Tentativa.csproj.CoreCompileInputs.cache
+D:\Pastas do Sistema\Documentos\Programação\Projetos Faculdade\Exercício 2 - Parte da Nota - 2 Tentativa\bin\Debug\net6.0\Exercício 2 - Parte da Nota - 2 Tentativa.exe
+D:\Pastas do Sistema\Documentos\Programação\Projetos Faculdade\Exercício 2 - Parte da Nota - 2 Tentativa\bin\Debug\net6.0\Exercício 2 - Parte da Nota - 2 Tentativa.deps.json
+D:\Pastas do Sistema\Documentos\Programação\Projetos Faculdade\Exercício 2 - Parte da Nota - 2 Tentativa\bin\Debug\net6.0\Exercício 2 - Parte da Nota - 2 Tentativa.runtimeconfig.json
+D:\Pastas do Sistema\Documentos\Programação\Projetos Faculdade\Exercício 2 - Parte da Nota - 2 Tentativa\bin\Debug\net6.0\Exercício 2 - Parte da Nota - 2 Tentativa.dll
+D:\Pastas do Sistema\Documentos\Programação\Projetos Faculdade\Exercício 2 - Parte da Nota - 2 Tentativa\bin\Debug\net6.0\Exercício 2 - Parte da Nota - 2 Tentativa.pdb
+D:\Pastas do Sistema\Documentos\Programação\Projetos Faculdade\Exercício 2 - Parte da Nota - 2 Tentativa\obj\Debug\net6.0\Exercício 2 - Parte da Nota - 2 Tentativa.dll
+D:\Pastas do Sistema\Documentos\Programação\Projetos Faculdade\Exercício 2 - Parte da Nota - 2 Tentativa\obj\Debug\net6.0\refint\Exercício 2 - Parte da Nota - 2 Tentativa.dll
+D:\Pastas do Sistema\Documentos\Programação\Projetos Faculdade\Exercício 2 - Parte da Nota - 2 Tentativa\obj\Debug\net6.0\Exercício 2 - Parte da Nota - 2 Tentativa.pdb
+D:\Pastas do Sistema\Documentos\Programação\Projetos Faculdade\Exercício 2 - Parte da Nota - 2 Tentativa\obj\Debug\net6.0\Exercício 2 - Parte da Nota - 2 Tentativa.genruntimeconfig.cache
+D:\Pastas do Sistema\Documentos\Programação\Projetos Faculdade\Exercício 2 - Parte da Nota - 2 Tentativa\obj\Debug\net6.0\ref\Exercício 2 - Parte da Nota - 2 Tentativa.dll
