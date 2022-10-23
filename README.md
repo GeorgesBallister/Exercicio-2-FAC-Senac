@@ -1,5 +1,3 @@
-# MiniRPG
-MiniRPG feito para a atividade de Coading da Faculdade SENAC Pernambuco,
-Mini RPG para testar meus conhecimentos em Programação Orientada a Objetos em c#.
-
-Abra a pasta "Exercício 2 - Parte da Nota - 2 Tentativa" no seu editor de codigo ou IDE
+# Exercícios da Faculdade Senac - Análise e Desenvolvimento de Sistemas
+Aqui será postado todas as atividades que eu for realizando, que envolveram código. 
+Para ficar mais organizado.
